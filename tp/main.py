@@ -3,7 +3,7 @@ import pywhatkit as kit
 import datetime
 
 # Parameters
-phone_number = "+919892938998"  
+phone_number = "+91**********"  
 messages = [
     "hi what are you doing?",
     "you know much how much",
